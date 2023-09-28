@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhan S
-- 👀 I’m interested in web developement
+- 👀 I’m interested in Frontend web developement
 - 🌱 I’m currently job seeking for the role of React front end developer
 - 🗡️ I'm having skills such us HTML,CSS ,JS,REACTJS.
 - 💞️ I’m looking to collaborate on frontend projects
